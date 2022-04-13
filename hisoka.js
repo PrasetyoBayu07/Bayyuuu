@@ -2659,10 +2659,9 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 │⭔ ${prefix}romantic
 │⭔ ${prefix}smoke
 │⭔ ${prefix}burnpapper
-│⭔ ${prefix}naruto
 │⭔ ${prefix}lovemsg
 │⭔ ${prefix}grassmsg
-│⭔ ${prefix}lovetext
+│⭔ ${prefix}lovetex
 │⭔ ${prefix}coffecup
 │⭔ ${prefix}butterfly
 │⭔ ${prefix}harrypotter
